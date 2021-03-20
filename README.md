@@ -8,7 +8,7 @@
 ## Aplicação criada - ToDo List
 
 Aplicação desenvolvida para reforçar os conceitos aprendiso no modulo 01.
-<br>
+<br> 
 <br>
       
 <div>
